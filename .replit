@@ -9,4 +9,4 @@ localPort = 5000
 externalPort = 80
 
 [nix]
-packages = ["gdb", "run", "tree", "vimHugeX", "wget", "q-text-as-data"]
+packages = ["gdb", "hexedit", "q-text-as-data", "run", "tree", "vimHugeX", "wget"]
